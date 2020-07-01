@@ -4,11 +4,17 @@
 		"style": {
 			"navigationBarTitleText": "uni-ui基础项目"
 		}
-	}],
+	}    ,{
+            "path" : "pages/center/center",
+            "style" : {}
+        }
+        
+    ],
 	"globalStyle": {
 		"navigationBarTextStyle": "white",
-		"navigationBarTitleText": "uni-app",
-		"navigationBarBackgroundColor": "#007AFF",
-		"backgroundColor": "#FFFFFF"
+		"navigationBarTitleText": "小程序",
+		"navigationBarBackgroundColor": "#0055ff",
+		"backgroundColor": "#55ffff"
 	}
+	 
 }
